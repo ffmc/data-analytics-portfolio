@@ -1,0 +1,2 @@
+#Trainning the models with completesurvey file and apply models to incomplete file to predict which brands (Sony or Acer) the customers prefer. 
+The models used were C5.0 and Random forest the chosen model was due to its best performing results. 
