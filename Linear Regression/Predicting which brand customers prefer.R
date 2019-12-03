@@ -1,4 +1,8 @@
+#Load Data
+completesurvey <- read.csv('C:\Users\Francisco Cardoso\Documents\UT Data Analytics\2Predicting Customer Preferences\Task 2\task2'\CompleteResponses,header = TRUE, sep = ';')
+
 #Data Exploration and Data Cleaning
+head(completesurvey)
 str(completesurvey)
 summary(completesurvey)
 sum(is.na(completesurvey))
