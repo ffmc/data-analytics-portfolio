@@ -1,7 +1,7 @@
 # Data Analytics Portfolio
 Data analytic projects completed by me for academic, self-learning and hobby purposes. 
 
-<h2> R </h2>
+<h3> R </h3>
 <h3> Classification </h3>
 
 <a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Linear%20Regression/Predicting%20which%20brand%20customer%20prefer.ipynb">Predicting Customers Brand Preference</a>
