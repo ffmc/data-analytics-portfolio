@@ -14,7 +14,7 @@ The projects are presented on R and Python using Jupyter Notebook.
 <h3> Multiregression </h3>
 
 <a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Multiple%20Regression/Predict%20product%20type%20sales.ipynb">Predict product type sales</a>
-- Blackwell Electronics needs to understand which products are having the best sales performance and they need it to be divided in product types. 
+- Helping Blackwell Electronics to understand which products are having the best sales performance divided by its product types. 
 
 <i>Keywords: Multiregression, dummy variables, correlation</i>
 
