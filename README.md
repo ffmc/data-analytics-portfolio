@@ -1,5 +1,6 @@
 # Data Analytics Portfolio
 Data analytic projects completed by me for academic, self-learning and hobby purposes. 
+
 The projects are presented on R and Python using Jupyter Notebook. 
 
 <h3> R </h3>
