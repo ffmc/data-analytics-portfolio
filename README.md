@@ -25,3 +25,6 @@ The projects are presented on R and Python using Jupyter Notebook.
 
 <i>Keywords: Basket Association, Apriori Algorithm, Association Rules</i>
 
+<h4> Presentations and Visualizations </h4>
+
+<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Multiple%20Regression/Predict%20product%20type%20sales.ipynb">Here</a> you can find some of my presentations
