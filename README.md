@@ -7,7 +7,7 @@ The projects are presented on R and Python using Jupyter Notebook.
 
 <a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Classification/Predicting%20which%20brand%20customer%20prefer.ipynb">Predicting Customers Brand Preference</a> - Simple exercice where I predict the empty replies from a survey trying to understand which brand, Sony or Acer the customers prefer.  
 
-<i>Keywords: Classification, survey, </i> 
+<i>Keywords: Classification, survey </i> 
 
 <a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Multiple%20Regression/Predict%20product%20type%20sales.ipynb">Predict product type sales</a> - Helping Blackwell Electronics to understand which products are having the best sales performance divided by its product types. 
 
