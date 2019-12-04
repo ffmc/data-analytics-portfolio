@@ -1,4 +1,4 @@
-# data-analytics-portfolio
+# Data Analytics Portfolio
 Data analytic projects completed by me for academic, self-learning and hobby purposes. 
 
 <h3> Classification </h3>
