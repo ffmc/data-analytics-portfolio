@@ -3,8 +3,8 @@ Data analytic projects completed by me for academic, self-learning and hobby pur
 
 The projects are presented on R and Python using Jupyter Notebook. 
 
-<h3> R </h3>
-<h3> Classification </h3>
+<h4> R </h4>
+<h4> Classification </h4>
 
 <a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Classification/Predicting%20which%20brand%20customer%20prefer.ipynb">Predicting Customers Brand Preference</a>
 - Simple exercice where I predict the empty replies from a survey trying to understand which brand, Sony or Acer the customers prefer.  
@@ -23,4 +23,5 @@ The projects are presented on R and Python using Jupyter Notebook.
 <a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Association%20Rules/Market%20Basket%20Association.ipynb">Association Rules </a>
 - The main goal of this exercise is to analyze Electronidex’ transactions and to find patterns on those transactions. I want to understand what their customer behavior is and to find out possible relationships between the products that are bought.
 
-i>Keywords: Basket Association, Apriori Algorithm, Association Rules</i>
+<i>Keywords: Basket Association, Apriori Algorithm, Association Rules</i>
+
