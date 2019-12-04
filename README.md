@@ -10,8 +10,7 @@ The projects are presented on R and Python using Jupyter Notebook.
 
 <i>Keywords: Classification, survey, </i> 
 
-<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Multiple%20Regression/Predict%20product%20type%20sales.ipynb">Predict product type sales</a>
-- Helping Blackwell Electronics to understand which products are having the best sales performance divided by its product types. 
+<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Multiple%20Regression/Predict%20product%20type%20sales.ipynb">Predict product type sales</a> - Helping Blackwell Electronics to understand which products are having the best sales performance divided by its product types. 
 
 <i>Keywords: Multiregression, dummy variables, correlation</i>
 
