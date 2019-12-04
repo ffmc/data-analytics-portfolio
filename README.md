@@ -9,6 +9,7 @@ Data analytic projects completed by me for academic, self-learning and hobby pur
 <i>Keywords: Classification, survey</i>
 
 <h3> Multiregression </h3>
+
 <a href="https://github.com/ffmc/data-analytics-portfolio/tree/master/Multiple%20Regression">Predicting Customers Brand Preference</a>
 - Blackwell electronics needs to understand which products are having the best sales performance and they need it to be divided in product types. 
 
