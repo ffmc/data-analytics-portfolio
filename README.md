@@ -5,7 +5,7 @@ The projects are presented on R and Python using Jupyter Notebook.
 
 <h4> R </h4>
 
-<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Classification/Predicting%20which%20brand%20customer%20prefer.ipynb">Predicting Customers Brand Preference</a>- Simple exercice where I predict the empty replies from a survey trying to understand which brand, Sony or Acer the customers prefer.  
+<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Classification/Predicting%20which%20brand%20customer%20prefer.ipynb">Predicting Customers Brand Preference</a> - Simple exercice where I predict the empty replies from a survey trying to understand which brand, Sony or Acer the customers prefer.  
 
 <i>Keywords: Classification, survey, </i> 
 
