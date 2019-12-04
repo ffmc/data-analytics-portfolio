@@ -17,3 +17,7 @@ The projects are presented on R and Python using Jupyter Notebook.
 - Blackwell Electronics needs to understand which products are having the best sales performance and they need it to be divided in product types. 
 
 <i>Keywords: Multiregression, dummy variables, correlation</i>
+
+<h3> Association Rules </h3>
+<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Association%20Rules/Market%20Basket%20Association.ipynb">Association Rules </a>
+- The main goal of this exercise is to analyze Electronidex’ transactions and to find patterns on those transactions. I want to understand what their customer behavior is and to find out possible relationships between the products that are bought.
