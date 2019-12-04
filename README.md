@@ -10,7 +10,7 @@ Data analytic projects completed by me for academic, self-learning and hobby pur
 
 <h3> Multiregression </h3>
 
-<a href="https://github.com/ffmc/data-analytics-portfolio/tree/master/Multiple%20Regression">Predicting Customers Brand Preference</a>
-- Blackwell electronics needs to understand which products are having the best sales performance and they need it to be divided in product types. 
+<a href="https://github.com/ffmc/data-analytics-portfolio/tree/master/Multiple%20Regression">PPredict product type sales</a>
+- Blackwell Electronics needs to understand which products are having the best sales performance and they need it to be divided in product types. 
 
 <i>Keywords: Multiregression, dummy variables, correlation</i>
