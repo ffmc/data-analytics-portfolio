@@ -22,3 +22,5 @@ The projects are presented on R and Python using Jupyter Notebook.
 
 <a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Association%20Rules/Market%20Basket%20Association.ipynb">Association Rules </a>
 - The main goal of this exercise is to analyze Electronidex’ transactions and to find patterns on those transactions. I want to understand what their customer behavior is and to find out possible relationships between the products that are bought.
+
+i>Keywords: Basket Association, Apriori Algorithm, Association Rules</i>
