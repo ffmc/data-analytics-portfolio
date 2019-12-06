@@ -17,15 +17,15 @@ The projects are presented on R and Python using Jupyter Notebook.
 
 <i>Keywords: Basket Association, Apriori Algorithm, Association Rules</i>
 
-<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Power%20Consumption%20Visualization%20and%20Analysis/Power%20Consumption%20Visualization%20and%20Analysis.ipynb">Power Consumption Visualization and Analysis</a>- Analysing and explore the power consumption of a household to understand consumption behaviours
+<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Power%20Consumption%20Visualization%20and%20Analysis/Power%20Consumption%20Visualization%20and%20Analysis.ipynb">Power Consumption Visualization and Analysis</a> - Analysing and explore the power consumption of a household to understand consumption behaviours
 
 <i>Keywords: Visualization, Lubridate, plotly, dplyr, SQL</i>
 
-<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Time%20Series%20for%20Power%20Consumption%20Forecasting/Power%20Consumption%20Visualization%20and%20Analysis.ipynb">Time Series Power Consumption </a>- Using a regression for prediction to understand how the power consumption will be in the future.
+<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Time%20Series%20for%20Power%20Consumption%20Forecasting/Power%20Consumption%20Visualization%20and%20Analysis.ipynb">Time Series Power Consumption </a> - Using a regression for prediction to understand how the power consumption will be in the future.
 
 <i>Keywords: Time Series, Forecasting, Holtwinters </i>
 
-<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Models%20for%20indoor%20Wifi%20Locationing/Models%20for%20indoor%20Wifi%20Locationing.ipynb">Models for indoor Wifi Locationing</a>- Modeling to investigate the feasibility of using "wifi fingerprinting" to determine a person's location in indoor spaces.
+<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Models%20for%20indoor%20Wifi%20Locationing/Models%20for%20indoor%20Wifi%20Locationing.ipynb">Models for indoor Wifi Locationing</a> - Modeling to investigate the feasibility of using "wifi fingerprinting" to determine a person's location in indoor spaces.
 
 <i>Keywords: Confusion Matrix, Kappa, Accuracy, Data Manipulation </i>
 
