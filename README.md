@@ -25,7 +25,7 @@ The projects are presented on R and Python using Jupyter Notebook.
 
 <i>Keywords: Time Series, Forecasting, Holtwinters </i>
 
-<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Models%20for%20indoor%20Wifi%20Locationing/Models%20for%20indoor%20Wifi%20Locationing.ipynb">Models for indoor Wifi Locationing</a>- Modeling to investigate the feasibility of using "wifi fingerprinting" to determine a person's location in indoor spaces. .
+<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Models%20for%20indoor%20Wifi%20Locationing/Models%20for%20indoor%20Wifi%20Locationing.ipynb">Models for indoor Wifi Locationing</a>- Modeling to investigate the feasibility of using "wifi fingerprinting" to determine a person's location in indoor spaces.
 
 <i>Keywords: Confusion Matrix, Kappa, Accuracy, Data Manipulation </i>
 
