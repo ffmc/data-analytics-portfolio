@@ -19,7 +19,7 @@ The projects are presented on R and Python using Jupyter Notebook.
 
 <a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Power%20Consumption%20Visualization%20and%20Analysis/Power%20Consumption%20Visualization%20and%20Analysis.ipynb">Power Consumption Visualization and Analysis</a>- Analysing and explore the power consumption of a household to understand consumption behaviours
 
-<i>Keywords: Time Series, plotly, ggplot </i>
+<i>Keywords: Visualization, Lubridate, plotly, dplyr, SQL</i>
 
 <a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Time%20Series%20for%20Power%20Consumption%20Forecasting/Power%20Consumption%20Visualization%20and%20Analysis.ipynb">Time Series Power Consumption </a>- Using a regression for prediction to understand how the power consumption will be in the future.
 
@@ -29,4 +29,4 @@ The projects are presented on R and Python using Jupyter Notebook.
 
 <a href="https://github.com/ffmc/data-analytics-portfolio/tree/master/Presentations">Here</a> you can find some of my presentations where I show some results in a more visual way and easier to understand.
 
-<i>Keywords: Visualization, Lubridate, plotly, dplyr, SQL</i>
+
