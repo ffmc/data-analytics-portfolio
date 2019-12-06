@@ -21,7 +21,7 @@ The projects are presented on R and Python using Jupyter Notebook.
 
 <i>Keywords:Time Series, plotly, ggplot </i>
 
-<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Time%20Series%20for%20Power%20Consumption%20Forecasting/Power%20Consumption%20Visualization%20and%20Analysis.ipynb>Time Series Power Consumption </a>- Using a regression for prediction to understand how the power consumption will be in the future.
+<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Time%20Series%20for%20Power%20Consumption%20Forecasting/Power%20Consumption%20Visualization%20and%20Analysis.ipynb">Time Series Power Consumption </a>- Using a regression for prediction to understand how the power consumption will be in the future.
 
 <i>Keywords:Time Series, Forecasting, Holtwinters </i>
 
