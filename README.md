@@ -3,8 +3,8 @@ Data analytic projects completed by me for academic, self-learning and hobby pur
 
 The projects are presented on R and Python using Jupyter Notebook. 
 
-<a href="https://shields.io/" rel="nofollow"></a>
-<img src="https://camo.githubusercontent.com/8e243082ea9adce57f4ba331501a56f6f58e88d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f522d76332e342e332d6530613132632e737667" alt="Generic badge" data-canonical-src="https://img.shields.io/badge/R-v3.4.3-e0a12c.svg" style="max-width:100%;">
+<h1><a href="https://shields.io/" rel="nofollow"></a>
+<img src="https://camo.githubusercontent.com/8e243082ea9adce57f4ba331501a56f6f58e88d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f522d76332e342e332d6530613132632e737667" alt="Generic badge" data-canonical-src="https://img.shields.io/badge/R-v3.4.3-e0a12c.svg" style="max-width:100%;"></h1>
 <hr width="20%" size=0.5>
 
 <a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Classification/Predicting%20which%20brand%20customer%20prefer.ipynb">Predicting Customers Brand Preference</a> - Simple exercice where I predict the empty replies from a survey trying to understand which brand, Sony or Acer the customers prefer.  
