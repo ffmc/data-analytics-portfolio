@@ -34,6 +34,8 @@ The projects are presented on R and Python using Jupyter Notebook.
 
 <h4> Presentations and Visualizations </h4>
 
+<hr size="1">
+
 <a href="https://github.com/ffmc/data-analytics-portfolio/tree/master/Presentations">Here</a> you can find some of my presentations where I show some results in a more visual way and easier to understand.
 
 
