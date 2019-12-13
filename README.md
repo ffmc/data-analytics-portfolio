@@ -41,9 +41,9 @@ The projects are presented on R and Python using Jupyter Notebook. You can find 
 
 <h1><img src="https://camo.githubusercontent.com/6117347ef31c23867634d68d8ca5063a6d53d6dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d76332e302d3733623561372e737667" alt="Generic badge" data-canonical-src="https://img.shields.io/badge/Python-v3.0-73b5a7.svg" style="max-width:100%;"></h1>
 
-<h4> Presentations and Visualizations </h4>
+<h1> <img src="https://img.shields.io/badge/PowerPoint-Presentations%20and%20Visualizations-orange" alt="Powerpoint" style="max-width:100%;"></h1>
 
 <a href="https://github.com/ffmc/data-analytics-portfolio/tree/master/Presentations">Here</a> you can find some of my presentations where I show some results in a more visual way and easier to understand.
 
 
-<img src="https://img.shields.io/badge/PowerPoint-Presentations%20and%20Visualizations-orange" alt="Powerpoint" style="max-width:100%;">>
+
