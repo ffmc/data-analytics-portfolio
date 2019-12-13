@@ -3,8 +3,6 @@ Data analytic projects completed by me for academic, self-learning and hobby pur
 
 The projects are presented on R and Python using Jupyter Notebook. You can find more about me on my <a href="https://www.linkedin.com/in/ffmc">Linkedin profile.</a>
 
-<span class="badge badge-primary">Primary</span>
-
 <h1><a href="https://shields.io/" rel="nofollow"></a>
 <img src="https://camo.githubusercontent.com/8e243082ea9adce57f4ba331501a56f6f58e88d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f522d76332e342e332d6530613132632e737667" alt="Generic badge" data-canonical-src="https://img.shields.io/badge/R-v3.4.3-e0a12c.svg" style="max-width:100%;"></h1>
 
