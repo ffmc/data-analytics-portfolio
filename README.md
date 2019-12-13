@@ -3,7 +3,7 @@ Data analytic projects completed by me for academic, self-learning and hobby pur
 
 The projects are presented on R and Python using Jupyter Notebook. You can find more about me on my <a href="https://www.linkedin.com/in/ffmc">Linkedin profile.</a>
 
-<<h1> <img src="https://img.shields.io/badge/Projects-R-blue" alt="r" style="max-width:100%;"></h1>
+<h1> <img src="https://img.shields.io/badge/Projects-R-blue" alt="r" style="max-width:100%;"></h1>
 
 <a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Classification/Predicting%20which%20brand%20customer%20prefer.ipynb">Predicting Customers Brand Preference</a> - Simple exercise where I predict the empty replies from a survey trying to understand which brand, Sony or Acer the customers prefer.  
 
