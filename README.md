@@ -32,7 +32,12 @@ The projects are presented on R and Python using Jupyter Notebook. You can find 
 
 <a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Smartphone%20Sentiment%20Analysis/Smartphone%20Sentiment%20Analysis.ipynb">Smartphone Sentiment Analysis</a> - Collecting data from the Common Crawl Archives using Elastic Compute Cloud (EC2), Amazon Elastic MapReduce (EMR) and Amazon Simple Storage Services (S3).
 
-<i>Keywords: Common Crawl, Amazon Cloud Computing, Sentiment Analysis </i>
+<i>Keywords: Common Crawl, Amazon Cloud Computing </i>
+
+<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Smartphone%20Sentiment%20Prediction/Smartphone%20Sentiment%20Prediction.ipynb">Smartphone Sentiment Prediction</a> - On this second part of the Smartphone Sentiment, we will explore, clean and train and test models for prediction.  (S3).
+
+<i>Keywords: RFE, NZV, Recoding, Sentiment Analysis </i>
+
 
 <h1><img src="https://camo.githubusercontent.com/6117347ef31c23867634d68d8ca5063a6d53d6dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d76332e302d3733623561372e737667" alt="Generic badge" data-canonical-src="https://img.shields.io/badge/Python-v3.0-73b5a7.svg" style="max-width:100%;"></h1>
 
