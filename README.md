@@ -34,7 +34,7 @@ The projects are presented on R and Python using Jupyter Notebook. You can find 
 
 <i>Keywords: Common Crawl, Amazon Cloud Computing </i>
 
-<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Smartphone%20Sentiment%20Prediction/Smartphone%20Sentiment%20Prediction.ipynb">Smartphone Sentiment Prediction</a> - On this second part of the Smartphone Sentiment, we will explore, clean and train and test models for prediction.  (S3).
+<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Smartphone%20Sentiment%20Prediction/Smartphone%20Sentiment%20Prediction.ipynb">Smartphone Sentiment Prediction</a> - On this second part of the Smartphone Sentiment, I will explore, clean and train and test models for prediction.  (S3).
 
 <i>Keywords: RFE, NZV, Recoding, Sentiment Analysis </i>
 
