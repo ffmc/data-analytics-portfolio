@@ -33,13 +33,13 @@ The projects are presented on R and Python using Jupyter Notebook. You can find 
 
 <i>Keywords: Common Crawl, Amazon Cloud Computing </i>
 
-<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Smartphone%20Sentiment%20Prediction/Smartphone%20Sentiment%20Prediction.ipynb">Smartphone Sentiment Prediction</a> - On this second part of the Smartphone Sentiment, I will explore, clean, and train and test models for prediction.  (S3).
+<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Smartphone%20Sentiment%20Prediction/Smartphone%20Sentiment%20Prediction.ipynb">Smartphone Sentiment Prediction</a> - On this second part of the Smartphone Sentiment, I will explore, clean, and train and test models for prediction.
 
 <i>Keywords: RFE, NZV, Recoding, Sentiment Analysis </i>
 
 <h1> <img src="https://img.shields.io/badge/Projects-Python-yellow" alt="python" style="max-width:100%;"></h1>
 
-<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Credit%20Default%20Rate%20Analysis/Credit%20Default%20Rate%20Analysis.ipynb">Credit Default Rate Analysis</a> - First part of the Credit Default Rate Analysis from Credit One where we try to understand which clients default on their loans.   (S3).
+<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Credit%20Default%20Rate%20Analysis/Credit%20Default%20Rate%20Analysis.ipynb">Credit Default Rate Analysis</a> - First part of the Credit Default Rate Analysis from Credit One where we try to understand which clients default on their loans.
 
 <h1> <img src="https://img.shields.io/badge/Presentations-ppt-orange" alt="powerpoint" style="max-width:100%;"></h1>
 
