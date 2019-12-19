@@ -41,6 +41,8 @@ The projects are presented on R and Python using Jupyter Notebook. You can find 
 
 <a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Credit%20Default%20Rate%20Analysis/Credit%20Default%20Rate%20Analysis.ipynb">Credit Default Rate Analysis</a> - First part of the Credit Default Rate Analysis from Credit One where we try to understand which clients default on their loans.
 
+<i>Keywords: Pandas, Seaborn, Matplotlib, Data Visualization </i>
+
 <h1> <img src="https://img.shields.io/badge/Presentations-ppt-orange" alt="powerpoint" style="max-width:100%;"></h1>
 
 <a href="https://github.com/ffmc/data-analytics-portfolio/tree/master/Presentations">Here</a> you can find some of my presentations where I show some results in a more visual way and easier to understand.
