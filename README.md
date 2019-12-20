@@ -43,6 +43,10 @@ The projects are presented on R and Python using Jupyter Notebook. You can find 
 
 <i>Keywords: Pandas, Seaborn, Matplotlib, Data Visualization </i>
 
+<a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Credit%20Default%20Prediction%20Model/Credit%20Default%20Prediction%20.ipynb">Credit Default Model Prediction</a> - Second part of the Credict Default Rate for Credit One where we build train and test the models to detect the customers who are more likely to default on their loans. 
+
+<i>Keywords: Sklearn, Cross Validation, Classification, Accuracy, F1 </i>
+
 <h1> <img src="https://img.shields.io/badge/Presentations-ppt-orange" alt="powerpoint" style="max-width:100%;"></h1>
 
 <a href="https://github.com/ffmc/data-analytics-portfolio/tree/master/Presentations">Here</a> you can find some of my presentations where I show some results in a more visual way and easier to understand.
