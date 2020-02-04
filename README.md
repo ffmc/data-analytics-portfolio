@@ -47,6 +47,10 @@ The projects are presented on R and Python using Jupyter Notebook. You can find 
 
 <i>Keywords: Sklearn, Cross Validation, Classification, Accuracy, F1 </i>
 
+<a href="https://github.com/ffmc/data-analytics-portfolio/tree/master/European%20football%20(soccer)%20leagues%20EDA%20and%20model%20selection">European football (soccer) leagues EDA and model selection</a> - On this personal project I explore the data of the best teams and leagues in some of the best leagues in Europe.
+
+<i>Keywords: Sklearn, Regression, EDA, F1 </i>
+
 <h1> <img src="https://img.shields.io/badge/Presentations-ppt-orange" alt="powerpoint" style="max-width:100%;"></h1>
 
 <a href="https://github.com/ffmc/data-analytics-portfolio/tree/master/Presentations">Here</a> you can find some of my presentations where I show some results in a more visual way and easier to understand.
