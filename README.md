@@ -51,7 +51,7 @@ The projects are presented on R and Python using Jupyter Notebook. You can find 
 
 <i>Keywords: EDA, Seaborn, Matplotlib, Regression </i>
 
-<h1> <img src="https://img.shields.io/badge/Presentations-ppt-orange" alt="powerpoint" style="max-width:100%;"></h1>
+<h1> <img src="https://img.shields.io/badge/Presentations-ppt-orange" alt="visualization" style="max-width:100%;"></h1>
 
 <a href="https://github.com/ffmc/data-analytics-portfolio/tree/master/Presentations">Here</a> you can find some of my presentations where I show some results in a more visual way and easier to understand.
 
