@@ -39,7 +39,7 @@ You can find more about me on my <a href="https://www.linkedin.com/in/ffmc">Link
 
 <i>Keywords: RFE, NZV, Recoding, Sentiment Analysis </i>
 
-<h1> <img src="https://img.shields.io/badge/Projects-Python-yellow" alt="python" style="max-width:100%;"></h1>
+<h1> <img src="https://img.shields.io/badge/Projects-Python-green" alt="python" style="max-width:100%;"></h1>
 
 <a href="https://github.com/ffmc/data-analytics-portfolio/blob/master/Credit%20Default%20Rate%20Analysis/Credit%20Default%20Rate%20Analysis.ipynb">Credit Default Rate Analysis</a> - First part of the Credit Default Rate Analysis from Credit One where we try to understand which clients default on their loans.
 
@@ -63,7 +63,7 @@ You can find more about me on my <a href="https://www.linkedin.com/in/ffmc">Link
 
 <a href="https://public.tableau.com/views/FinalProjectMasterTableau/CoverPage?:display_count=y&:origin=viz_share_link">Explore Canada's Bankrupcies</a> - Project created for an advance course on Tableau.
 
-<h1> <img src="https://img.shields.io/badge/Projects-PowerBi-green" alt="powerbi" style="max-width:100%;"></h1>
+<h1> <img src="https://img.shields.io/badge/Projects-PowerBi-yellow" alt="powerbi" style="max-width:100%;"></h1>
 
 <a href="https://github.com/ffmc/data-analytics-portfolio/tree/master/PowerBI">Adventure Works</a> - A project created for an advanced course on PowerBi.
 
