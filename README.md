@@ -1,7 +1,9 @@
 # Data Analytics Portfolio
 Data analytic projects completed by me for academic, self-learning and hobby purposes. 
 
-The projects are presented on R and Python using Jupyter Notebook. You can find more about me on my <a href="https://www.linkedin.com/in/ffmc">Linkedin profile.</a>
+The projects are presented on R and Python using Jupyter Notebook. I showcase also my projects on Tableau, PowerBi and some academic presentations on Powerpoint. 
+
+You can find more about me on my <a href="https://www.linkedin.com/in/ffmc">Linkedin profile.</a>
 
 <h1> <img src="https://img.shields.io/badge/Projects-R-blue" alt="r" style="max-width:100%;"></h1>
 
@@ -53,7 +55,9 @@ The projects are presented on R and Python using Jupyter Notebook. You can find 
 
 <h1> <img src="https://img.shields.io/badge/Projects-Tableau-red" alt="tableau" style="max-width:100%;"></h1>
 
-<a href="https://public.tableau.com/views/BetterLifeAnalysis/1_IncomeandWages?:display_count=y&:origin=viz_share_link">Better Life Analysis</a> After countless hours of debating with a friend where would be the best country to live and the best indicators to evaluate that, I have proceed to a Data Analysis. 
+<a href="https://public.tableau.com/views/BetterLifeAnalysis/1_IncomeandWages?:display_count=y&:origin=viz_share_link">Better Life Analysis</a> - After countless hours of debating with a friend where would be the best country to live and the best indicators to evaluate that, I have proceed to a Data Analysis. 
+
+<a href="https://public.tableau.com/views/Covid19_15850184809770/Covid19?:display_count=y&:origin=viz_share_link">Covid-19 Analysis</a> - During the early days of the pandemic I was very interested on following the curve so I have decided to create my own dashboard to follow how close were we to flatten the curves. 
 
 <h1> <img src="https://img.shields.io/badge/Presentations-ppt-orange" alt="visualization" style="max-width:100%;"></h1>
 
