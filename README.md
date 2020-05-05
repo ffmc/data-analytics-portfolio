@@ -63,9 +63,15 @@ You can find more about me on my <a href="https://www.linkedin.com/in/ffmc">Link
 
 <a href="https://public.tableau.com/views/FinalProjectMasterTableau/CoverPage?:display_count=y&:origin=viz_share_link">Explore Canada's Bankrupcies</a> - Project created for an advance course on Tableau.
 
+<h1> <img src="https://img.shields.io/badge/Projects-PowerBi-green" alt="powerbi" style="max-width:100%;"></h1>
+
+<a href="https://github.com/ffmc/data-analytics-portfolio/tree/master/PowerBI">Adventure Works</a> - A project created for an advanced course on PowerBi.
+
+<a href="https://github.com/ffmc/data-analytics-portfolio/tree/master/PowerBI">Maven Market</a> - A second project created for an advanced course on PowerBi.
+
 <h1> <img src="https://img.shields.io/badge/Presentations-ppt-orange" alt="visualization" style="max-width:100%;"></h1>
 
-<a href="https://github.com/ffmc/data-analytics-portfolio/tree/master/Presentations">Here</a> you can find some of my presentations where I show some results in a more visual way and easier to understand.
+<a href="https://github.com/ffmc/data-analytics-portfolio/tree/master/Presentations">Here</a> you can find some of my presentations where I show some data insights.
 
 
 
