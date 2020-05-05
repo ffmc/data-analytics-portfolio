@@ -51,6 +51,10 @@ The projects are presented on R and Python using Jupyter Notebook. You can find 
 
 <i>Keywords: EDA, Seaborn, Matplotlib, Regression </i>
 
+<h1> <img src="https://img.shields.io/badge/Tableau-ppt-yellow" alt="visualization" style="max-width:100%;"></h1>
+
+<a href="https://public.tableau.com/views/BetterLifeAnalysis/1_IncomeandWages?:display_count=y&:origin=viz_share_link">Better Life Analysis</a> After countless hours of debating with a friend where would be the best country to live and the best indicators to evaluate that, I have proceed to a Data Analysis. 
+
 <h1> <img src="https://img.shields.io/badge/Presentations-ppt-orange" alt="visualization" style="max-width:100%;"></h1>
 
 <a href="https://github.com/ffmc/data-analytics-portfolio/tree/master/Presentations">Here</a> you can find some of my presentations where I show some results in a more visual way and easier to understand.
