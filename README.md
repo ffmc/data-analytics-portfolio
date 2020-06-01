@@ -57,13 +57,23 @@ You can find more about me on my <a href="https://www.linkedin.com/in/ffmc">Link
 
 <a href="https://public.tableau.com/views/BetterLifeAnalysis/1_IncomeandWages?:display_count=y&:origin=viz_share_link">Better Life Analysis</a> - After countless hours of debating with a friend where would be the best country to live and the best indicators to evaluate that, I have proceed to a Data Analysis. 
 
-<a href="https://public.tableau.com/views/Covid19_15850184809770/Covid19?:display_count=y&:origin=viz_share_link">Covid-19 Analysis</a> - During the early days of the pandemic I was very interested on following the curve so I have decided to create my own dashboard to follow how close were we to flatten the curves. 
+<ahref="https://public.tableau.com/views/MusicIndustry_15903610175390/Dashboard1?:useGuest=true&:display_count=y&:origin=viz_share_link">The Evolution of Music</a> - Project Created for #MakeOverMonday week21 2020. 
 
-<a href="https://public.tableau.com/views/TimeseriesofPetrolandDieselprices/Timeseries?:display_count=y&:origin=viz_share_link">Petrol vs Diesel Prices in the UK</a> - Project Created for #MakeOverMonday week17 2020. 
+<a href="https://public.tableau.com/views/CarInsuranceUSA/Carinsurance?:useGuest=true&:display_count=y&:origin=viz_share_link">Car Insurance Rates 2020</a> - Project Created for #MakeOverMonday week20 2020. 
+
+<a href="https://public.tableau.com/profile/francisco4773#!/vizhome/WorldHappiness_15891305541910/WorldHappiness">World Happiness Report</a> - Project Created for #MakeOverMonday week19 2020. 
 
 <a href="https://public.tableau.com/profile/francisco4773#!/vizhome/OperationFistula_15885502623840/OperationFistula">Operation Fistula</a> - Project Created for #MakeOverMonday week18 2020. 
 
-<a href="https://public.tableau.com/profile/francisco4773#!/vizhome/WorldHappiness_15891305541910/WorldHappiness">World Happiness Report</a> - Project Created for #MakeOverMonday week19 2020. 
+<a href="https://public.tableau.com/views/TimeseriesofPetrolandDieselprices/Timeseries?:display_count=y&:origin=viz_share_link">Petrol vs Diesel Prices in the UK</a> - Project Created for #MakeOverMonday week17 2020. 
+
+<a href="https://public.tableau.com/views/Covid19_15850184809770/Covid19?:display_count=y&:origin=viz_share_link">Covid-19 Analysis</a> - During the early days of the pandemic I was very interested on following the curve so I have decided to create my own dashboard to follow how close were we to flatten the curves. 
+
+
+
+
+
+
 
 <a href="https://public.tableau.com/views/FinalProjectMasterTableau/CoverPage?:display_count=y&:origin=viz_share_link">Explore Canada's Bankrupcies</a> - Project created for an advance course on Tableau.
 
