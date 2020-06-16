@@ -76,8 +76,6 @@ You can find more about me on my <a href="https://www.linkedin.com/in/ffmc">Link
 
 <a href="https://public.tableau.com/views/Covid19_15850184809770/Covid19?:display_count=y&:origin=viz_share_link">Covid-19 Analysis</a> - During the early days of the pandemic I was very interested on following the curve so I have decided to create my own dashboard to follow how close were we to flatten the curves. 
 
-<a href="https://public.tableau.com/views/FinalProjectMasterTableau/CoverPage?:display_count=y&:origin=viz_share_link">Explore Canada's Bankrupcies</a> - Project created for an advance course on Tableau.
-
 <h1> <img src="https://img.shields.io/badge/Projects-PowerBi-yellow" alt="powerbi" style="max-width:100%;"></h1>
 
 <a href="https://github.com/ffmc/data-analytics-portfolio/tree/master/PowerBI">Adventure Works</a> - A project created for an advanced course on Power BI.
