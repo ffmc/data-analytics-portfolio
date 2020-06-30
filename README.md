@@ -7,7 +7,7 @@ You can find more about me on my <a href="https://www.linkedin.com/in/ffmc">Link
 
 <h1> <img src="https://img.shields.io/badge/Projects-Tableau-red" alt="tableau" style="max-width:100%;"></h1>
 
-<a href="https://public.tableau.com/profile/francisco4773#!/vizhome/EconomicEmpowermentofwomenGlobally/Final?publish=yes">Gender Inequality</a> - Project Created for #MakeOverMonday week26 2020. 
+<a href="https://public.tableau.com/profile/francisco4773#!/vizhome/EconomicEmpowermentofwomenGlobally/WithoutText2?publish=yes">Gender Inequality</a> - Project Created for #MakeOverMonday week26 2020. 
 
 <a href="https://public.tableau.com/profile/francisco4773#!/vizhome/AmazonsSmallProfit/WithoutText">Amazon's Tiny Profits</a> - Project Created for #MakeOverMonday week25 2020. 
 
